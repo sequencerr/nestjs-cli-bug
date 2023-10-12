@@ -1,0 +1,13 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "dependencies": {
+    "@nestjs/cli": "^10.1.18"
+  },
+  "types": "dist/main.d.ts",
+  "main": "dist/main.js",
+  "description": "",
+  "private": true,
+  "author": "",
+  "license": "ISC"
+}
